@@ -7,3 +7,4 @@ for i in check:
         break
     print("Veikur!")
     break
+
